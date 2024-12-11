@@ -31,7 +31,7 @@ const config: Config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+  trailingSlash: false,
   presets: [
     [
       'classic',
