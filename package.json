@@ -1,5 +1,5 @@
 {
-  "name": "my-website",
+  "name": "resume.github.io",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -12,8 +12,7 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "typecheck": "tsc",
-    "publish-gh-pages"
+    "typecheck": "tsc"
   },
   "dependencies": {
     "@docusaurus/core": "3.6.3",
