@@ -20,7 +20,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'loongest', // Usually your GitHub org/user name.
   projectName: 'resume', // Usually your repo name.
-
+  deploymentBranch: 'main',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -31,7 +31,6 @@ const config: Config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-  trailingSlash: false,
   presets: [
     [
       'classic',
