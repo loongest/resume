@@ -86,6 +86,11 @@ const config: Config = {
           label: 'LinkedIn',
           position: 'right',
         },
+        {
+          href: 'https://mingch-resume.s3.ap-southeast-1.amazonaws.com/Resume.pdf',
+          label: 'Download',
+          position: 'right',
+        },
       ],
     },
     footer: {
