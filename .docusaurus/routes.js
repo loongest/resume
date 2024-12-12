@@ -38,6 +38,11 @@ export default [
     exact: true
   },
   {
+    path: '/resume/markdown-page',
+    component: ComponentCreator('/resume/markdown-page', '247'),
+    exact: true
+  },
+  {
     path: '/resume/docs',
     component: ComponentCreator('/resume/docs', '2e0'),
     routes: [

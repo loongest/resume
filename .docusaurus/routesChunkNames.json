@@ -42,6 +42,13 @@
       "plugin": "plugin---resume-docusaurus-debugb-38-04e"
     }
   },
+  "/resume/markdown-page-247": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---resume-markdown-pagea-74-a00"
+    },
+    "content": "content---resume-markdown-page-393-158"
+  },
   "/resume/docs-2e0": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
