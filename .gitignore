@@ -8,6 +8,7 @@
 .docusaurus
 .docusaurus/
 /.docusaurus/
+
 .cache-loader
 /assets
 
