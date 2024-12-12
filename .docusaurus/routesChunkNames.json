@@ -86,5 +86,12 @@
   "/resume/docs/vsi/-f73": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---resume-docs-vsi-ca-5-895"
+  },
+  "/resume/-53a": {
+    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__context": {
+      "plugin": "plugin---resume-a-74-3a4"
+    },
+    "config": "config---resume-5-e-9-504"
   }
 }

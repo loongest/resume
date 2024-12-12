@@ -104,6 +104,11 @@ export default [
     ]
   },
   {
+    path: '/resume/',
+    component: ComponentCreator('/resume/', '53a'),
+    exact: true
+  },
+  {
     path: '*',
     component: ComponentCreator('*'),
   },
