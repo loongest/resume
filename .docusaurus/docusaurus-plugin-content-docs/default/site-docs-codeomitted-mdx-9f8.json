@@ -1,0 +1,28 @@
+{
+  "id": "codeomitted",
+  "title": "CodeOmitted PLT",
+  "description": "Founder & Developer",
+  "source": "@site/docs/codeomitted.mdx",
+  "sourceDirName": ".",
+  "slug": "/codeomitted",
+  "permalink": "/resume/docs/codeomitted",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/codeomitted.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "CodeOmitted",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Resume",
+    "permalink": "/resume/docs/intro"
+  },
+  "next": {
+    "title": "Travelog",
+    "permalink": "/resume/docs/travelog"
+  }
+}

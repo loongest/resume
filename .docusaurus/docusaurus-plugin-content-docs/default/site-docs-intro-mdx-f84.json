@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Resume",
+  "description": "Hi there! I’m a seasoned software developer with over 19 years of experience crafting full-stack solutions for web, mobile, and desktop platforms. As a Certified Spring Core Developer, I’m passionate about building enterprise-level systems that drive real business value. I thrive in Agile environments, love collaborating with teams, and enjoy finding innovative ways to solve tough technical challenges. Whether leading a project or contributing hands-on, I’m all about delivering impactful, high-quality solutions.",
+  "source": "@site/docs/intro.mdx",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/resume/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "CodeOmitted",
+    "permalink": "/resume/docs/codeomitted"
+  }
+}

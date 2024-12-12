@@ -1,0 +1,28 @@
+{
+  "id": "vsi",
+  "title": "VSI",
+  "description": "November 2007 - June 2014 (6 years 8 months)",
+  "source": "@site/docs/vsi.mdx",
+  "sourceDirName": ".",
+  "slug": "/vsi",
+  "permalink": "/resume/docs/vsi",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/vsi.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "VSI",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "F-Secure",
+    "permalink": "/resume/docs/f-secure"
+  },
+  "next": {
+    "title": "Radiant Digital Sdn Bhd",
+    "permalink": "/resume/docs/radiant-digital"
+  }
+}

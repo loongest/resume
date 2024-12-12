@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresume_github_io=self.webpackChunkresume_github_io||[]).push([[8644],{7459:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/resume/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
