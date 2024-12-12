@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Basic Info',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        I'm a software developer with a passion for Java and web apps. Since 2005, I've been learning and exploring new tech. Learn more about my journey.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Skills',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+         I'm skilled in Java, Spring Framework, and open-source technologies, with expertise in front-end, back-end, desktop, mobile, and web development.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Experiences',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Junior to Senior, Consultant, and Founder, I've worked on diverse projects that sharpened my skills and expanded my knowledge.
       </>
     ),
   },
