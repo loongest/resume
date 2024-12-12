@@ -1,61 +1,90 @@
 {
-  "/resume/markdown-page-247": {
-    "__comp": "1f391b9e",
+  "/resume/__docusaurus/debug/-942": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "a7456010"
-    },
-    "content": "393be207"
-  },
-  "/resume/docs-2e0": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---resume-docusaurus-debug-b-38-5b0"
     }
   },
-  "/resume/docs-610": {
-    "__comp": "a7bd4aaa",
-    "__props": "5e7f54e0"
-  },
-  "/resume/docs-2a4": {
-    "__comp": "a94703ab"
-  },
-  "/resume/docs/codeomitted-ba4": {
-    "__comp": "17896441",
-    "content": "9f8f86df"
-  },
-  "/resume/docs/ddbill-ce0": {
-    "__comp": "17896441",
-    "content": "e8d95ba6"
-  },
-  "/resume/docs/f-secure-27c": {
-    "__comp": "17896441",
-    "content": "9d16a8b3"
-  },
-  "/resume/docs/freelance-12a": {
-    "__comp": "17896441",
-    "content": "048d5f72"
-  },
-  "/resume/docs/intro-85e": {
-    "__comp": "17896441",
-    "content": "f8409a7e"
-  },
-  "/resume/docs/radiant-digital-f2f": {
-    "__comp": "17896441",
-    "content": "12cae804"
-  },
-  "/resume/docs/travelog-d2b": {
-    "__comp": "17896441",
-    "content": "2914e3aa"
-  },
-  "/resume/docs/vsi-854": {
-    "__comp": "17896441",
-    "content": "ca50d12b"
-  },
-  "/resume/-53a": {
-    "__comp": "1df93b7f",
+  "/resume/__docusaurus/debug/config/-023": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---resume-docusaurus-debug-b-38-5b0"
+    }
+  },
+  "/resume/__docusaurus/debug/content/-e69": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---resume-docusaurus-debug-b-38-5b0"
     },
-    "config": "5e9f5e1a"
+    "__props": "__props---resume-docusaurus-debug-content-e-8-b-436"
+  },
+  "/resume/__docusaurus/debug/globalData/-d8a": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---resume-docusaurus-debug-b-38-5b0"
+    }
+  },
+  "/resume/__docusaurus/debug/metadata/-735": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---resume-docusaurus-debug-b-38-5b0"
+    }
+  },
+  "/resume/__docusaurus/debug/registry/-347": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---resume-docusaurus-debug-b-38-5b0"
+    }
+  },
+  "/resume/__docusaurus/debug/routes/-7ee": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---resume-docusaurus-debug-b-38-5b0"
+    }
+  },
+  "/resume/docs/-4d8": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---resume-docs-aba-7c0"
+    }
+  },
+  "/resume/docs/-352": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---resume-docs-877-c68"
+  },
+  "/resume/docs/-78e": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/resume/docs/codeomitted/-082": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---resume-docs-codeomitted-9-f-8-f51"
+  },
+  "/resume/docs/ddbill/-27f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---resume-docs-ddbill-e-8-d-c76"
+  },
+  "/resume/docs/f-secure/-8d0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---resume-docs-f-secure-9-d-1-b7a"
+  },
+  "/resume/docs/freelance/-32f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---resume-docs-freelance-048-615"
+  },
+  "/resume/docs/intro/-498": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---resume-docs-intro-f-84-e2f"
+  },
+  "/resume/docs/radiant-digital/-9cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---resume-docs-radiant-digital-12-c-37a"
+  },
+  "/resume/docs/travelog/-d7e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---resume-docs-travelog-291-b28"
+  },
+  "/resume/docs/vsi/-f73": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---resume-docs-vsi-ca-5-895"
   }
 }
