@@ -1,0 +1,61 @@
+{
+  "/resume/markdown-page-247": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/resume/docs-2e0": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/resume/docs-610": {
+    "__comp": "a7bd4aaa",
+    "__props": "5e7f54e0"
+  },
+  "/resume/docs-2a4": {
+    "__comp": "a94703ab"
+  },
+  "/resume/docs/codeomitted-ba4": {
+    "__comp": "17896441",
+    "content": "9f8f86df"
+  },
+  "/resume/docs/ddbill-ce0": {
+    "__comp": "17896441",
+    "content": "e8d95ba6"
+  },
+  "/resume/docs/f-secure-27c": {
+    "__comp": "17896441",
+    "content": "9d16a8b3"
+  },
+  "/resume/docs/freelance-12a": {
+    "__comp": "17896441",
+    "content": "048d5f72"
+  },
+  "/resume/docs/intro-85e": {
+    "__comp": "17896441",
+    "content": "f8409a7e"
+  },
+  "/resume/docs/radiant-digital-f2f": {
+    "__comp": "17896441",
+    "content": "12cae804"
+  },
+  "/resume/docs/travelog-d2b": {
+    "__comp": "17896441",
+    "content": "2914e3aa"
+  },
+  "/resume/docs/vsi-854": {
+    "__comp": "17896441",
+    "content": "ca50d12b"
+  },
+  "/resume/-53a": {
+    "__comp": "1df93b7f",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}
